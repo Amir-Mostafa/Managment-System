@@ -1,0 +1,35 @@
+﻿@model review_1.Models.RoleVM
+@{
+    ViewData["Title"] = "create";
+    Layout = "~/Views/layout/_Layout.cshtml";
+}
+@*<link href="~/plugins/bootstrap-select/css/bootstrap-select.css" rel="stylesheet" />*@
+
+<a class="btn btn-primary" asp-controller="Admin" asp-action="index" >
+    Back To All Roles
+</a>
+<h2 class="text-center text-info">Add Role</h2>
+
+<div class="text-danger" asp-validation-summary="All" ></div>
+<div class="bg-success p-3 "id="msg">
+    @ViewBag.success
+</div>
+
+<form asp-controller="Admin" asp-action="createRole" method="post" >
+    <div class="form-group">
+        <label> Name</label>
+        <input asp-for="Name" class="form-control" />
+        <span class="text-danger" asp-validation-for="Name"></span>
+    </div>
+    <div>
+        <input type="submit" value="Add" class="btn btn-primary" />
+    </div>
+
+</form>
+<script src="~/jquery/jquery.min.js"></script>
+<script src="~/jquery-validate/jquery.validate.min.js"></script>
+<script src="~/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"></script>
+
+<script>
+    
+</script>

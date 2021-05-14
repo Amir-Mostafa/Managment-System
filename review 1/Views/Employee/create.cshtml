@@ -1,0 +1,110 @@
+﻿@model review_1.Models.EmployeeVM
+@{
+    ViewData["Title"] = "create";
+    Layout = "~/Views/layout/_Layout.cshtml";
+}
+@*<link href="~/plugins/bootstrap-select/css/bootstrap-select.css" rel="stylesheet" />*@
+<h2 class="text-center text-info">Add Employee</h2>
+
+<form action="/employee/create" method="post" enctype="multipart/form-data">
+    <div class="form-group">
+        <label>Employee Name</label>
+        <input asp-for="Name" class="form-control" />
+        <span class="text-danger" asp-validation-for="Name"></span>
+    </div>
+
+    <div class="form-group">
+        <label>Salary</label>
+        <input asp-for="salary" class="form-control" />
+        <span class="text-danger" asp-validation-for="salary"></span>
+    </div>
+    <div class="form-group">
+        <label>age</label>
+        <input asp-for="age" class="form-control" />
+        <span class="text-danger" asp-validation-for="age"></span>
+    </div>
+    <div class="form-group">
+        <label>Address</label>
+        <input asp-for="Address" class="form-control" />
+        <span class="text-danger" asp-validation-for="Address"></span>
+    </div>
+    <div class="form-group">
+        <label>Hire date</label>
+        <input asp-for="Hiredate" class="form-control" />
+        <span class="text-danger" asp-validation-for="Hiredate"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="DepartmentID">Department</label>
+        <br />
+        <select asp-for="DepartmentID" asp-items="(SelectList)ViewBag.depts">
+            <option>Choose Department</option>
+        </select>
+        <span class="text-danger" asp-validation-for="DepartmentID"></span>
+    </div>
+
+    <div class="form-group">
+        <label>Countr</label>
+        <br />
+        <select id="countryId" asp-items="(SelectList)ViewBag.countries">
+            <option>Choose Country</option>
+        </select>
+
+    </div>
+    <div class="form-group">
+        <label asp-for="cityId">City</label>
+        <br />
+        <select asp-for="cityId">
+            <option>Choose city</option>
+        </select>
+        <span class="text-danger" asp-validation-for="DepartmentID"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="PhotoURL">Photo</label>
+        <input type="file" asp-for="PhotoURL" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label asp-for="CVURL">Select CV</label>
+        <input type="file" asp-for="CVURL" class="form-control" />
+    </div>
+
+    <div>
+        <input type="submit" value="Add" class="btn btn-primary" />
+    </div>
+
+</form>
+<script src="~/jquery/jquery.min.js"></script>
+<script src="~/jquery-validate/jquery.validate.min.js"></script>
+<script src="~/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"></script>
+
+
+<script>
+    $(function () {
+        $("#countryId").change(function () {
+
+            
+        var id = $("#countryId").val();
+        
+            $.ajax({
+                type: "POST",
+                url: "/Employee/AllCountry",
+                data: {
+                    id: id
+                },
+                success: function (res) {
+                    $("#cityId").empty();
+                    $("#cityId").append("<option>Choose city</option>");
+                    $.each(res, function (i, e) {
+                        {
+                            $("#cityId").append("<option value='" + e.Id + "' >" + e.CityName + "</option>")
+                        };
+                    })
+                    
+                },
+                error: function (error) {
+                    alert("error");
+                }
+            })
+        });
+        
+    })
+</script>

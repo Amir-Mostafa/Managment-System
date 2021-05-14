@@ -1,0 +1,52 @@
+﻿@model review_1.Models.EmployeeVM
+@{
+    ViewData["Title"] = "delete";
+    Layout = "~/Views/layout/_Layout.cshtml";
+}
+
+
+<link href="~/plugins/bootstrap-select/css/bootstrap-select.css" rel="stylesheet" />
+<h2 class="text-center text-info">Delete Employee</h2>
+
+<form asp-controller="employee" asp-action="delete" method="post">
+    <div class="form-group">
+        <label>Employee Name</label>
+        <input asp-for="Name" disabled class="form-control" />
+    </div>
+
+    <div class="form-group">
+        <label>Salary</label>
+        <input asp-for="salary" disabled class="form-control" />
+    </div>
+    <div class="form-group">
+        <label>age</label>
+        <input asp-for="age"disabled class="form-control" />
+    </div>
+    <div class="form-group">
+        <label>Address</label>
+        <input asp-for="Address"disabled class="form-control" />
+    </div>
+    <div class="form-group">
+        <label>Hire date</label>
+        <input asp-for="Hiredate" disabled class="form-control" />
+    </div>
+    <div class="form-group">
+        <label asp-for="DepartmentID">Department</label>
+        <br />
+        <select asp-for="DepartmentID" disabled asp-items="(SelectList)ViewBag.depts">
+            <option>Choose Department</option>
+        </select>
+    </div>
+    <div>
+        <input type="submit" value="Delete" class="btn btn-primary" />
+    </div>
+
+</form>
+<script src="~/jquery/jquery.min.js"></script>
+<script src="~/jquery-validate/jquery.validate.min.js"></script>
+<script src="~/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"></script>
+
+
+
+
+

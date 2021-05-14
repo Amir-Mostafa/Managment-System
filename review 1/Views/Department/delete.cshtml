@@ -1,0 +1,26 @@
+﻿@model review_1.Models.DepartmentVM
+
+@{
+    ViewData["Title"] = "create";
+    Layout = "~/Views/layout/_Layout.cshtml";
+}
+
+<h2 class="text-center text-info">Delete Department</h2>
+
+<form asp-controller="department" asp-action="delete" method="post">
+    <div class="form-group">
+        <label>Department Name</label>
+        <input asp-for="DepartmentName"disabled class="form-control" />
+    </div>
+    <div class="form-group">
+        <label>Department code</label>
+        <input asp-for="DepartmentCode" disabled class="form-control" />
+    </div>
+    <div>
+        <input type="submit" value="Delete" class="btn btn-danger" />
+    </div>
+
+</form>
+<script src="~/jquery/jquery.min.js"></script>
+<script src="~/jquery-validate/jquery.validate.min.js"></script>
+<script src="~/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"></script>

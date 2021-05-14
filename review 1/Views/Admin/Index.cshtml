@@ -1,0 +1,94 @@
+﻿@using Microsoft.AspNetCore.Identity;
+@model IQueryable<IdentityRole>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/layout/_Layout.cshtml";
+}
+
+@{
+    var Culture = System.Threading.Thread.CurrentThread.CurrentCulture.Name;
+}
+@using Microsoft.Extensions.Localization
+@using review_1.Resources.Roles
+@inject IStringLocalizer<SharedResource> SharedLocalizer
+    <!-- Google Fonts -->
+<!-- Google Fonts -->
+@if (Culture == "ar-EG")
+{
+    <h5 style="text-align:right">
+        <a asp-controller="Admin" asp-action="Index" asp-route-culture="en-US">@SharedLocalizer["English"]</a>
+
+    </h5>
+
+
+}
+@if (Culture == "en-US")
+{
+    <h5 style="text-align:right">
+        <a asp-controller="Admin" asp-action="Index" asp-route-culture="ar-EG">@SharedLocalizer["Arabic"]</a>
+    </h5>
+}
+
+
+
+
+
+
+
+<div class="container-fluid">
+    <div class="row clearfix">
+        <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+            <div class="card">
+                <div class="header">
+                    <h2 class="text-center text-info">All Employees</h2>
+                    <a class="btn btn-primary" asp-controller="Admin" asp-action="createRole">New Role</a>
+
+                </div>
+                <div class="body">
+                    <div class="table-responsive">
+                        <table class="table table-bordered table-striped table-hover js-basic-example dataTable">
+
+                            <thead>
+                            <td>@SharedLocalizer["Name"]</td>
+                            <td>@SharedLocalizer["Action"]</td>
+
+                            </thead>
+                            @foreach (var item in Model)
+                            {
+                                <tr>
+
+                                    <td>@item.Name</td>
+
+
+                                    <td>
+                                        <a class="btn btn-info" asp-controller="Admin" asp-action="editRole" asp-route-id="@item.Id">@SharedLocalizer["Edit"]</a>
+                                        <a class="btn btn-danger" asp-controller="Admin" asp-action="deleteRole" asp-route-id="@item.Id">@SharedLocalizer["Delete"]</a>
+                                    </td>
+
+
+                                </tr>
+
+                            }
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

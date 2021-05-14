@@ -1,0 +1,55 @@
+﻿@model IQueryable<review_1.Models.DepartmentVM>
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/layout/_Layout.cshtml";
+}
+
+@using Microsoft.Extensions.Localization
+@using review_1.Resources.Department
+
+@inject IStringLocalizer<SharedResource> SharedLocalizer
+@{
+    var Culture = System.Threading.Thread.CurrentThread.CurrentCulture.Name;
+}
+
+@if (Culture == "ar-EG")
+{
+    <h5 style="text-align:right">
+        <a asp-controller="Department" asp-action="Index" asp-route-culture="en-US">@SharedLocalizer["English"]</a>
+
+    </h5>
+
+
+}
+@if (Culture == "en-US")
+{
+    <h5 style="text-align:right">
+        <a asp-controller="Department" asp-action="Index" asp-route-culture="ar-EG">@SharedLocalizer["Arabic"]</a>
+    </h5>
+}
+
+
+
+<h2 class="text-center text-info">@SharedLocalizer["all"]</h2>
+<a class="btn btn-primary" asp-controller="department" asp-action="create">Create Department</a>
+<table class="table">
+    <thead>
+    <td>@SharedLocalizer["ID"]</td>
+    <td>@SharedLocalizer["Name"]</td>
+    <td>@SharedLocalizer["Code"]</td>
+    <td>@SharedLocalizer["Operations"]</td>
+    </thead>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.id</td>
+            <td>@item.DepartmentName</td>
+            <td>@item.DepartmentCode</td>
+            <td>
+                <a class="btn btn-info" asp-controller="department" asp-action="edit" asp-route-id="@item.id">@SharedLocalizer["Edit"]</a>
+                <a class="btn btn-danger" asp-controller="department" asp-action="delete" asp-route-id="@item.id">@SharedLocalizer["Delete"]</a>
+            </td>
+        </tr>
+    }
+</table>
+

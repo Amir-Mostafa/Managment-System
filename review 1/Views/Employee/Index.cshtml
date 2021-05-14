@@ -1,0 +1,121 @@
+﻿@model IQueryable<review_1.Models.EmployeeVM>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/layout/_Layout.cshtml";
+}
+
+@{
+    var Culture = System.Threading.Thread.CurrentThread.CurrentCulture.Name;
+}
+@using Microsoft.Extensions.Localization
+@using review_1.Resources.Department
+@inject IStringLocalizer<SharedResource> SharedLocalizer
+    <!-- Google Fonts -->
+<!-- Google Fonts -->
+@if (Culture == "ar-EG")
+{
+    <h5 style="text-align:right">
+        <a asp-controller="Employee" asp-action="Index" asp-route-culture="en-US">@SharedLocalizer["English"]</a>
+
+    </h5>
+
+
+}
+@if (Culture == "en-US")
+{
+    <h5 style="text-align:right">
+        <a asp-controller="Employee" asp-action="Index" asp-route-culture="ar-EG">@SharedLocalizer["Arabic"]</a>
+    </h5>
+}
+
+
+
+
+
+
+
+<div class="container-fluid">
+    <div class="row clearfix">
+        <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+            <div class="card">
+                <div class="header">
+                    <h2 class="text-center text-info">All Employees</h2>
+                    <a class="btn btn-primary" asp-controller="employee" asp-action="create">New Employee</a>
+                    <ul class="header-dropdown m-r--5">
+                        <li class="dropdown">
+                            <a href="javascript:void(0);" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
+                                <i class="material-icons">more_vert</i>
+                            </a>
+                            <ul class="dropdown-menu pull-right">
+                                <li><a href="javascript:void(0);">Action</a></li>
+                                <li><a href="javascript:void(0);">Another action</a></li>
+                                <li><a href="javascript:void(0);">Something else here</a></li>
+                            </ul>
+                        </li>
+                    </ul>
+                </div>
+                <div class="body">
+                    <div class="table-responsive">
+                        <table class="table table-bordered table-striped table-hover js-basic-example dataTable">
+
+                            <thead>
+                            <td>@SharedLocalizer["Name"]</td>
+                            <td>@SharedLocalizer["Age"]</td>
+                            <td>@SharedLocalizer["Salary"]</td>
+                            <td>@SharedLocalizer["Hiredate"]</td>
+                            <td>@SharedLocalizer["Address"]</td>
+                            <td>@SharedLocalizer["Department"]</td>
+                            <td>@SharedLocalizer["City"]</td>
+                            <td>@SharedLocalizer["Action"]</td>
+                            <td>@SharedLocalizer["photo"]</td>
+                            <td>@SharedLocalizer["cv"]</td>
+                            </thead>
+                            @foreach (var item in Model)
+                            {
+                                <tr>
+
+                                    <td>@item.Name</td>
+                                    <td>@item.age</td>
+                                    <td>@item.salary</td>
+                                    <td>@item.Hiredate</td>
+                                    <td>@item.Address</td>
+                                    <td>@item.DepartmentName</td>
+                                    <td>@item.cityId</td>
+
+                                    <td>
+                                        <a class="btn btn-info" asp-controller="employee" asp-action="edit" asp-route-id="@item.id">Edit</a>
+                                        <a class="btn btn-danger" asp-controller="employee" asp-action="delete" asp-route-id="@item.id">Delete</a>
+                                    </td>
+                                    <td>
+                                        <img style="width:50px; height:50px" src="~/files/photoes/@item.PhotoName" />
+                                    </td>
+                                    <td>
+                                        <a href="~/files/cvs/@item.CVName">cv</a>
+                                    </td>
+
+                                </tr>
+
+                            }
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

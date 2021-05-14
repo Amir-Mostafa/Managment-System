@@ -1,0 +1,38 @@
+﻿@model review_1.Models.RoleVM
+@{
+    ViewData["Title"] = "delete";
+    Layout = "~/Views/layout/_Layout.cshtml";
+}
+@*<link href="~/plugins/bootstrap-select/css/bootstrap-select.css" rel="stylesheet" />*@
+
+<a class="btn btn-primary" asp-controller="Admin" asp-action="index">
+    Back To All Roles
+</a>
+<h2 class="text-center text-info">delete Role</h2>
+
+<div class="text-danger" asp-validation-summary="All"></div>
+
+
+<form asp-controller="Admin" asp-action="deleteRole" method="post">
+    <div class="form-group">
+        <label> Name</label>
+        <input  asp-for="Name"  class="form-control" />
+        
+    </div>
+    <div>
+        <span class="text-danger" asp-validation-for="Name"></span>
+    </div>
+    <input type="hidden" asp-for="id" />
+    <div>
+        <input type="submit" value="Delete" class="btn btn-danger" />
+    </div>
+
+
+</form>
+<script src="~/jquery/jquery.min.js"></script>
+<script src="~/jquery-validate/jquery.validate.min.js"></script>
+<script src="~/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"></script>
+
+<script>
+
+</script>

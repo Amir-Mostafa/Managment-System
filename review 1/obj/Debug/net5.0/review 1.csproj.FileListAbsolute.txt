@@ -1,0 +1,186 @@
+D:\visual studio 2019\projects\repos\review 1\review 1\bin\Debug\net5.0\appsettings.Development.json
+D:\visual studio 2019\projects\repos\review 1\review 1\bin\Debug\net5.0\appsettings.json
+D:\visual studio 2019\projects\repos\review 1\review 1\bin\Debug\net5.0\review 1.exe
+D:\visual studio 2019\projects\repos\review 1\review 1\bin\Debug\net5.0\review 1.deps.json
+D:\visual studio 2019\projects\repos\review 1\review 1\bin\Debug\net5.0\review 1.runtimeconfig.json
+D:\visual studio 2019\projects\repos\review 1\review 1\bin\Debug\net5.0\review 1.runtimeconfig.dev.json
+D:\visual studio 2019\projects\repos\review 1\review 1\bin\Debug\net5.0\review 1.dll
+D:\visual studio 2019\projects\repos\review 1\review 1\bin\Debug\net5.0\ref\review 1.dll
+D:\visual studio 2019\projects\repos\review 1\review 1\bin\Debug\net5.0\review 1.pdb
+D:\visual studio 2019\projects\repos\review 1\review 1\bin\Debug\net5.0\review 1.Views.dll
+D:\visual studio 2019\projects\repos\review 1\review 1\bin\Debug\net5.0\review 1.Views.pdb
+D:\visual studio 2019\projects\repos\review 1\review 1\obj\Debug\net5.0\review 1.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual studio 2019\projects\repos\review 1\review 1\obj\Debug\net5.0\review 1.AssemblyInfoInputs.cache
+D:\visual studio 2019\projects\repos\review 1\review 1\obj\Debug\net5.0\review 1.AssemblyInfo.cs
+D:\visual studio 2019\projects\repos\review 1\review 1\obj\Debug\net5.0\review 1.csproj.CoreCompileInputs.cache
+D:\visual studio 2019\projects\repos\review 1\review 1\obj\Debug\net5.0\review 1.MvcApplicationPartsAssemblyInfo.cache
+D:\visual studio 2019\projects\repos\review 1\review 1\obj\Debug\net5.0\review 1.RazorAssemblyInfo.cache
+D:\visual studio 2019\projects\repos\review 1\review 1\obj\Debug\net5.0\review 1.RazorAssemblyInfo.cs
+D:\visual studio 2019\projects\repos\review 1\review 1\obj\Debug\net5.0\staticwebassets\review 1.StaticWebAssets.Manifest.cache
+D:\visual studio 2019\projects\repos\review 1\review 1\obj\Debug\net5.0\staticwebassets\review 1.StaticWebAssets.xml
+D:\visual studio 2019\projects\repos\review 1\review 1\obj\Debug\net5.0\scopedcss\bundle\review 1.styles.css
+D:\visual studio 2019\projects\repos\review 1\review 1\obj\Debug\net5.0\review 1.TagHelpers.input.cache
+D:\visual studio 2019\projects\repos\review 1\review 1\obj\Debug\net5.0\review 1.TagHelpers.output.cache
+D:\visual studio 2019\projects\repos\review 1\review 1\obj\Debug\net5.0\review 1.RazorCoreGenerate.cache
+D:\visual studio 2019\projects\repos\review 1\review 1\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\visual studio 2019\projects\repos\review 1\review 1\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\visual studio 2019\projects\repos\review 1\review 1\obj\Debug\net5.0\review 1.RazorTargetAssemblyInfo.cache
+D:\visual studio 2019\projects\repos\review 1\review 1\obj\Debug\net5.0\review 1.RazorTargetAssemblyInfo.cs
+D:\visual studio 2019\projects\repos\review 1\review 1\obj\Debug\net5.0\review 1.Views.pdb
+D:\visual studio 2019\projects\repos\review 1\review 1\obj\Debug\net5.0\review 1.dll
+D:\visual studio 2019\projects\repos\review 1\review 1\obj\Debug\net5.0\ref\review 1.dll
+D:\visual studio 2019\projects\repos\review 1\review 1\obj\Debug\net5.0\review 1.pdb
+D:\visual studio 2019\projects\repos\review 1\review 1\obj\Debug\net5.0\review 1.genruntimeconfig.cache
+D:\visual studio 2019\projects\repos\review 1\review 1\obj\Debug\net5.0\review 1.csproj.CopyComplete
+D:\visual studio 2019\projects\repos\review 1\review 1\bin\Debug\net5.0\Humanizer.dll
+D:\visual studio 2019\projects\repos\review 1\review 1\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\visual studio 2019\projects\repos\review 1\review 1\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\visual studio 2019\projects\repos\review 1\review 1\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\visual studio 2019\projects\repos\review 1\review 1\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\visual studio 2019\projects\repos\review 1\review 1\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\visual studio 2019\projects\repos\review 1\review 1\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\visual studio 2019\projects\repos\review 1\review 1\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\visual studio 2019\projects\repos\review 1\review 1\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\visual studio 2019\projects\repos\review 1\review 1\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\visual studio 2019\projects\repos\review 1\review 1\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\visual studio 2019\projects\repos\review 1\review 1\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+D:\visual studio 2019\projects\repos\review 1\review 1\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\visual studio 2019\projects\repos\review 1\review 1\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\visual studio 2019\projects\repos\review 1\review 1\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\visual studio 2019\projects\repos\review 1\review 1\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\visual studio 2019\projects\repos\review 1\review 1\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\visual studio 2019\projects\repos\review 1\review 1\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+D:\visual studio 2019\projects\repos\review 1\review 1\bin\Debug\net5.0\System.Composition.Convention.dll
+D:\visual studio 2019\projects\repos\review 1\review 1\bin\Debug\net5.0\System.Composition.Hosting.dll
+D:\visual studio 2019\projects\repos\review 1\review 1\bin\Debug\net5.0\System.Composition.Runtime.dll
+D:\visual studio 2019\projects\repos\review 1\review 1\bin\Debug\net5.0\System.Composition.TypedParts.dll
+D:\visual studio 2019\projects\repos\review 1\review 1\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\visual studio 2019\projects\repos\review 1\review 1\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\visual studio 2019\projects\repos\review 1\review 1\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\visual studio 2019\projects\repos\review 1\review 1\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\visual studio 2019\projects\repos\review 1\review 1\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\visual studio 2019\projects\repos\review 1\review 1\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\visual studio 2019\projects\repos\review 1\review 1\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\visual studio 2019\projects\repos\review 1\review 1\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\visual studio 2019\projects\repos\review 1\review 1\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\visual studio 2019\projects\repos\review 1\review 1\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\visual studio 2019\projects\repos\review 1\review 1\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\visual studio 2019\projects\repos\review 1\review 1\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\visual studio 2019\projects\repos\review 1\review 1\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\visual studio 2019\projects\repos\review 1\review 1\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\visual studio 2019\projects\repos\review 1\review 1\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\visual studio 2019\projects\repos\review 1\review 1\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\visual studio 2019\projects\repos\review 1\review 1\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\visual studio 2019\projects\repos\review 1\review 1\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\visual studio 2019\projects\repos\review 1\review 1\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\visual studio 2019\projects\repos\review 1\review 1\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\visual studio 2019\projects\repos\review 1\review 1\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\visual studio 2019\projects\repos\review 1\review 1\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\visual studio 2019\projects\repos\review 1\review 1\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\visual studio 2019\projects\repos\review 1\review 1\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\visual studio 2019\projects\repos\review 1\review 1\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\visual studio 2019\projects\repos\review 1\review 1\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\visual studio 2019\projects\repos\review 1\review 1\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\visual studio 2019\projects\repos\review 1\review 1\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\visual studio 2019\projects\repos\review 1\review 1\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\visual studio 2019\projects\repos\review 1\review 1\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\visual studio 2019\projects\repos\review 1\review 1\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\visual studio 2019\projects\repos\review 1\review 1\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\visual studio 2019\projects\repos\review 1\review 1\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\visual studio 2019\projects\repos\review 1\review 1\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\visual studio 2019\projects\repos\review 1\review 1\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\visual studio 2019\projects\repos\review 1\review 1\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\visual studio 2019\projects\repos\review 1\review 1\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\visual studio 2019\projects\repos\review 1\review 1\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\visual studio 2019\projects\repos\review 1\review 1\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\visual studio 2019\projects\repos\review 1\review 1\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\visual studio 2019\projects\repos\review 1\review 1\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\visual studio 2019\projects\repos\review 1\review 1\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\visual studio 2019\projects\repos\review 1\review 1\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\visual studio 2019\projects\repos\review 1\review 1\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\visual studio 2019\projects\repos\review 1\review 1\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\visual studio 2019\projects\repos\review 1\review 1\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\visual studio 2019\projects\repos\review 1\review 1\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\visual studio 2019\projects\repos\review 1\review 1\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\visual studio 2019\projects\repos\review 1\review 1\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\visual studio 2019\projects\repos\review 1\review 1\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\visual studio 2019\projects\repos\review 1\review 1\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\visual studio 2019\projects\repos\review 1\review 1\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\visual studio 2019\projects\repos\review 1\review 1\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\visual studio 2019\projects\repos\review 1\review 1\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\visual studio 2019\projects\repos\review 1\review 1\obj\Debug\net5.0\Razor\Views\layout\_Layout.cshtml.g.cs
+D:\visual studio 2019\projects\repos\review 1\review 1\obj\Debug\net5.0\Razor\Views\Home\colorCards.cshtml.g.cs
+D:\visual studio 2019\projects\repos\review 1\review 1\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\visual studio 2019\projects\repos\review 1\review 1\obj\Debug\net5.0\Razor\Views\Department\Index.cshtml.g.cs
+D:\visual studio 2019\projects\repos\review 1\review 1\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\visual studio 2019\projects\repos\review 1\review 1\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\visual studio 2019\projects\repos\review 1\review 1\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\visual studio 2019\projects\repos\review 1\review 1\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\visual studio 2019\projects\repos\review 1\review 1\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\visual studio 2019\projects\repos\review 1\review 1\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+D:\visual studio 2019\projects\repos\review 1\review 1\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\visual studio 2019\projects\repos\review 1\review 1\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+D:\visual studio 2019\projects\repos\review 1\review 1\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\visual studio 2019\projects\repos\review 1\review 1\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\visual studio 2019\projects\repos\review 1\review 1\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\visual studio 2019\projects\repos\review 1\review 1\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\visual studio 2019\projects\repos\review 1\review 1\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\visual studio 2019\projects\repos\review 1\review 1\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\visual studio 2019\projects\repos\review 1\review 1\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\visual studio 2019\projects\repos\review 1\review 1\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\visual studio 2019\projects\repos\review 1\review 1\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\visual studio 2019\projects\repos\review 1\review 1\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\visual studio 2019\projects\repos\review 1\review 1\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\visual studio 2019\projects\repos\review 1\review 1\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\visual studio 2019\projects\repos\review 1\review 1\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\visual studio 2019\projects\repos\review 1\review 1\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\visual studio 2019\projects\repos\review 1\review 1\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\visual studio 2019\projects\repos\review 1\review 1\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\visual studio 2019\projects\repos\review 1\review 1\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\visual studio 2019\projects\repos\review 1\review 1\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\visual studio 2019\projects\repos\review 1\review 1\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\visual studio 2019\projects\repos\review 1\review 1\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\visual studio 2019\projects\repos\review 1\review 1\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\visual studio 2019\projects\repos\review 1\review 1\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\visual studio 2019\projects\repos\review 1\review 1\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\visual studio 2019\projects\repos\review 1\review 1\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\visual studio 2019\projects\repos\review 1\review 1\obj\Debug\net5.0\Razor\Views\Department\create.cshtml.g.cs
+D:\visual studio 2019\projects\repos\review 1\review 1\bin\Debug\net5.0\libman.json
+D:\visual studio 2019\projects\repos\review 1\review 1\obj\Debug\net5.0\Razor\Views\Department\edit.cshtml.g.cs
+D:\visual studio 2019\projects\repos\review 1\review 1\obj\Debug\net5.0\Razor\Views\Department\delete.cshtml.g.cs
+D:\visual studio 2019\projects\repos\review 1\review 1\bin\Debug\net5.0\AutoMapper.dll
+D:\visual studio 2019\projects\repos\review 1\review 1\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\visual studio 2019\projects\repos\review 1\review 1\obj\Debug\net5.0\Razor\Views\Employee\Index.cshtml.g.cs
+D:\visual studio 2019\projects\repos\review 1\review 1\obj\Debug\net5.0\Razor\Views\Employee\create.cshtml.g.cs
+D:\visual studio 2019\projects\repos\review 1\review 1\obj\Debug\net5.0\Razor\Views\Employee\edit.cshtml.g.cs
+D:\visual studio 2019\projects\repos\review 1\review 1\obj\Debug\net5.0\Razor\Views\Employee\delete.cshtml.g.cs
+D:\visual studio 2019\projects\repos\review 1\review 1\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\visual studio 2019\projects\repos\review 1\review 1\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\visual studio 2019\projects\repos\review 1\review 1\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+D:\visual studio 2019\projects\repos\review 1\review 1\bin\Debug\net5.0\ar-EG\review 1.resources.dll
+D:\visual studio 2019\projects\repos\review 1\review 1\obj\Debug\net5.0\review 1.csproj.GenerateResource.cache
+D:\visual studio 2019\projects\repos\review 1\review 1\obj\Debug\net5.0\ar-EG\review 1.resources.dll
+D:\visual studio 2019\projects\repos\review 1\review 1\obj\Debug\net5.0\review_1.Resources.Department.SharedResource.resources
+D:\visual studio 2019\projects\repos\review 1\review 1\obj\Debug\net5.0\review_1.Resources.Employee.SharedResource.resources
+D:\visual studio 2019\projects\repos\review 1\review 1\obj\Debug\net5.0\review_1.Resources.Department.SharedResource.ar-EG.resources
+D:\visual studio 2019\projects\repos\review 1\review 1\obj\Debug\net5.0\review_1.Resources.Employee.SharedResource.ar-EG.resources
+D:\visual studio 2019\projects\repos\review 1\review 1\obj\Debug\net5.0\Razor\Views\Mail\Index.cshtml.g.cs
+D:\visual studio 2019\projects\repos\review 1\review 1\obj\Debug\net5.0\Razor\Views\Mail\sendMail.cshtml.g.cs
+D:\visual studio 2019\projects\repos\review 1\review 1\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\visual studio 2019\projects\repos\review 1\review 1\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\visual studio 2019\projects\repos\review 1\review 1\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\visual studio 2019\projects\repos\review 1\review 1\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+D:\visual studio 2019\projects\repos\review 1\review 1\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+D:\visual studio 2019\projects\repos\review 1\review 1\obj\Debug\net5.0\Razor\Views\Account\Login.cshtml.g.cs
+D:\visual studio 2019\projects\repos\review 1\review 1\obj\Debug\net5.0\Razor\Views\Account\Registration.cshtml.g.cs
+D:\visual studio 2019\projects\repos\review 1\review 1\obj\Debug\net5.0\Razor\Views\Account\ForegetPassword.cshtml.g.cs
+D:\visual studio 2019\projects\repos\review 1\review 1\obj\Debug\net5.0\Razor\Views\Account\ConformForgetPassword.cshtml.g.cs
+D:\visual studio 2019\projects\repos\review 1\review 1\obj\Debug\net5.0\Razor\Views\Account\ResetPassword.cshtml.g.cs
+D:\visual studio 2019\projects\repos\review 1\review 1\obj\Debug\net5.0\Razor\Views\Account\ConformResetPassword.cshtml.g.cs
+D:\visual studio 2019\projects\repos\review 1\review 1\obj\Debug\net5.0\review 1.csprojAssemblyReference.cache
+D:\visual studio 2019\projects\repos\review 1\review 1\obj\Debug\net5.0\Razor\Views\Admin\Index.cshtml.g.cs
+D:\visual studio 2019\projects\repos\review 1\review 1\obj\Debug\net5.0\Razor\Views\Admin\createRole.cshtml.g.cs
+D:\visual studio 2019\projects\repos\review 1\review 1\obj\Debug\net5.0\review_1.Resources.Roles.SharedResource.resources
+D:\visual studio 2019\projects\repos\review 1\review 1\obj\Debug\net5.0\review_1.Resources.Roles.SharedResource.ar-EG.resources
+D:\visual studio 2019\projects\repos\review 1\review 1\obj\Debug\net5.0\Razor\Views\Admin\editRole.cshtml.g.cs
+D:\visual studio 2019\projects\repos\review 1\review 1\obj\Debug\net5.0\Razor\Views\Admin\deleteRole.cshtml.g.cs
